@@ -1,3 +1,3 @@
-duck
-moose
-cat
+Duck
+Moose
+Cat
